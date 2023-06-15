@@ -11,6 +11,8 @@ Welcome to the **Awesome COMSATS** repository! This repository aims to collect a
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
+- [List](#list)
+
 ## Introduction
 
 COMSATS University is known for its exceptional students and their remarkable contributions to various fields. The **Awesome COMSATS** repository provides a platform for students to showcase their projects, works, and research to a wider audience. Whether you have developed an innovative software application, written an insightful thesis, conducted groundbreaking research, or penned thought-provoking writings, this repository gives you the opportunity to share your work and inspire others.
@@ -62,3 +64,15 @@ We expect all contributors to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md
 ## License
 
 The **Awesome COMSATS** repository is licensed under the [CC0 (Public Domain)](LICENSE). By contributing to this repository, you agree to make your work available under this license, allowing others to use, distribute, and modify your contributions.
+
+
+## List
+
+### Semester Projects
+#### CS/SE
+##### Java
+- [E-Commerce System](https://github.com/mujtaba-io/cmd-ecommerce-system): 2nd semester programming fundamentals course.
+- [Doctor Appointment System](https://github.com/HasaanAhmad/Appointment-Managment-System): 2nd semester programming fundamentals course.
+- [Doctor Appointment System Remaster (with GUI)](https://github.com/HasaanAhmad/MediMeet): 3rd semester OOP project.
+
+##### C++
