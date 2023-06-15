@@ -75,6 +75,7 @@ The **Awesome COMSATS** repository is licensed under the [CC0 (Public Domain)](L
 ##### Java
 - [E-Commerce System](https://github.com/mujtaba-io/cmd-ecommerce-system): 2nd semester programming fundamentals course.
 - [Doctor Appointment System](https://github.com/HasaanAhmad/Appointment-Managment-System): 2nd semester programming fundamentals course.
+- [Gym Management System](https://github.com/KaShiekzmi/Gym-Management-System-Java-Project): 2nd semester PF project.
 - [Doctor Appointment System Remaster (with GUI)](https://github.com/HasaanAhmad/MediMeet): 3rd semester OOP course project.
 
 ##### C++
