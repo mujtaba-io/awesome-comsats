@@ -69,7 +69,9 @@ The **Awesome COMSATS** repository is licensed under the [CC0 (Public Domain)](L
 ## List
 
 ### Semester Projects
+
 #### CS/SE
+
 ##### Java
 - [E-Commerce System](https://github.com/mujtaba-io/cmd-ecommerce-system): 2nd semester programming fundamentals course.
 - [Doctor Appointment System](https://github.com/HasaanAhmad/Appointment-Managment-System): 2nd semester programming fundamentals course.
@@ -77,3 +79,35 @@ The **Awesome COMSATS** repository is licensed under the [CC0 (Public Domain)](L
 
 ##### C++
 - [Algorithms Applied on Countries Dataset](https://github.com/HasaanAhmad/Countries-Dataset-Structures-and-Algorithms-C-): 3rd semester DSA course project.
+
+### Assignments
+
+#### ICT
+
+#### PF
+
+#### OOP
+
+#### DSA
+
+#### Discrete Structures
+
+#### Linear Algebra
+
+#### Software Engineering Concepts (SEC)
+
+#### Software Requirements Engineering (SRE)
+
+#### Calculus
+
+### Research Papers
+
+### Thesis
+
+### Notes
+
+### Final Year Projects
+
+### Software
+
+### Art
