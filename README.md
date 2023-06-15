@@ -28,6 +28,8 @@ The **Awesome COMSATS** repository encompasses a wide range of categories, inclu
 - **Writings**: From essays and articles to opinion pieces and creative writing, this category welcomes all forms of written work by COMSATS students.
 - **Programs**: Upload your programming projects, whether they are standalone applications, scripts, or contributions to open-source projects.
 - **Projects**: This category encompasses a broad range of projects, including engineering projects, design projects, multimedia projects, and more.
+- **Tools**: This category encompasses tools used directly or indirectly.
+- **Other**: Any other thing.
 
 ## How to Contribute
 
