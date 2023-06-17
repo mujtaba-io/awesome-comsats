@@ -77,6 +77,7 @@ The **Awesome COMSATS** repository is licensed under the [CC0 (Public Domain)](L
 - [Doctor Appointment System](https://github.com/HasaanAhmad/Appointment-Managment-System): 2nd semester programming fundamentals course.
 - [Gym Management System](https://github.com/KaShiekzmi/Gym-Management-System-Java-Project): 2nd semester PF project.
 - [Doctor Appointment System Remaster (with GUI)](https://github.com/HasaanAhmad/MediMeet): 3rd semester OOP course project.
+- [Gym Management System Remaster (with GUI)](https://github.com/KaShiekzmi/Gym-Management-System-GUI-OOP-Java-Project): 3rd semester OOP project.
 
 ##### C++
 - [Algorithms Applied on Countries Dataset](https://github.com/HasaanAhmad/Countries-Dataset-Structures-and-Algorithms-C-): 3rd semester DSA course project.
