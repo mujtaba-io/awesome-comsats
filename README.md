@@ -71,7 +71,7 @@ The **Awesome COMSATS** repository is licensed under the [CC0 (Public Domain)](L
 ### Solved Labs
 - [Object Oriented Programming Solved Lab Manual Solution](https://github.com/HasaanAhmad/Object-Oriented-Programming-Lab-Manual-Comsats-University-Islamabad): Object Oriented Programming 3rd Semester Course Lab
 - [Data Structures and Algorithms](https://github.com/HasaanAhmad/Data-Structures-And-Algorithms-COMSATS-Solved-Lab-Manual): 3rd Semester Data Structures and Algorithms Lab Manual
-- [Data Structures and Algorithms](https://github.com/HasaanAhmad/Programming-Fundamental-CSC103-Lab-Solution): 2nd Semester Programming Fundamentals Lab Manual (Sir Rizwan Certified :) )
+- [Programming Fundamentals](https://github.com/HasaanAhmad/Programming-Fundamental-CSC103-Lab-Solution): 2nd Semester Programming Fundamentals Lab Manual (Sir Rizwan Certified :) )
 
 
 ### Semester Projects
