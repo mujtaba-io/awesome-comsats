@@ -68,6 +68,12 @@ The **Awesome COMSATS** repository is licensed under the [CC0 (Public Domain)](L
 
 ## List
 
+### Solved Labs
+- [Object Oriented Programming Solved Lab Manual Solution](https://github.com/HasaanAhmad/Object-Oriented-Programming-Lab-Manual-Comsats-University-Islamabad): Object Oriented Programming 3rd Semester Course Lab
+- [Data Structures and Algorithms](https://github.com/HasaanAhmad/Data-Structures-And-Algorithms-COMSATS-Solved-Lab-Manual): 3rd Semester Data Structures and Algorithms Lab Manual
+- [Data Structures and Algorithms](https://github.com/HasaanAhmad/Programming-Fundamental-CSC103-Lab-Solution): 2nd Semester Programming Fundamentals Lab Manual (Sir Rizwan Certified :) )
+
+
 ### Semester Projects
 
 #### CS/SE
@@ -78,6 +84,7 @@ The **Awesome COMSATS** repository is licensed under the [CC0 (Public Domain)](L
 - [Gym Management System](https://github.com/KaShiekzmi/Gym-Management-System-Java-Project): 2nd semester PF project.
 - [Doctor Appointment System Remaster (with GUI)](https://github.com/HasaanAhmad/MediMeet): 3rd semester OOP course project.
 - [Gym Management System Remaster (with GUI)](https://github.com/KaShiekzmi/Gym-Management-System-GUI-OOP-Java-Project): 3rd semester OOP project.
+  
 
 ##### C++
 - [Algorithms Applied on Countries Dataset](https://github.com/HasaanAhmad/Countries-Dataset-Structures-and-Algorithms-C-): 3rd semester DSA course project.
