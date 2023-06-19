@@ -1,6 +1,6 @@
 # Awesome COMSATS
 
-Welcome to the **Awesome COMSATS** repository! This repository aims to collect and showcase various student projects, works, theses, research papers, writings, and programs from COMSATS University. Whether you're a student, faculty member, or an enthusiast, this repository serves as a valuable resource to explore the diverse talents and accomplishments within the COMSATS community.
+Welcome to the **Awesome COMSATS** repository! This repository aims to collect and showcase various student projects, works, , research papers, writings, and programs from COMSATS University. Whether you're a student, faculty member, or enthusiast, this repository serves as a valuable resource to explore the diverse talents and accomplishments within the COMSATS community.
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ We encourage all students and faculty members of COMSATS University to contribut
 
 The **Awesome COMSATS** repository encompasses a wide range of categories, including but not limited to:
 
-- **Theses**: Upload and share your undergraduate and graduate theses. This category is a valuable resource for students seeking inspiration and guidance for their own thesis projects.
+- ****: Upload and share your undergraduate and graduate . This category is a valuable resource for students seeking inspiration and guidance for their own thesis projects.
 - **Research Papers**: Share your published or unpublished research papers. This section showcases the diverse research conducted by students at COMSATS University.
 - **Writings**: From essays and articles to opinion pieces and creative writing, this category welcomes all forms of written work by COMSATS students.
 - **Programs**: Upload your programming projects, whether they are standalone applications, scripts, or contributions to open-source projects.
