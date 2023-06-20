@@ -74,6 +74,9 @@ The **Awesome COMSATS** repository is licensed under the [CC0 (Public Domain)](L
 - [Programming Fundamentals](https://github.com/HasaanAhmad/Programming-Fundamental-CSC103-Lab-Solution): 2nd Semester Programming Fundamentals Lab Manual (Sir Rizwan Certified :) )
 
 
+### Semester Work
+- You can browse directories and get all relevant semester data/work that we uploded for every semester of every deparrtment possible, each student's work is uploaded under separate directory.
+
 ### Semester Projects
 
 #### CS/SE
