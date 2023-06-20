@@ -65,8 +65,8 @@ We expect all contributors to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md
 
 The **Awesome COMSATS** repository is licensed under the [CC0 (Public Domain)](LICENSE). By contributing to this repository, you agree to make your work available under this license, allowing others to use, distribute, and modify your contributions.
 
-### Semester Work
-- You can browse directories and get all relevant semester data/work that we uploded for every semester of every deparrtment possible, each student's work is uploaded under separate directory.
+## Semester Work
+You can browse directories and get all relevant semester data/work that we uploded for every semester of every deparrtment possible, each student's work is uploaded under separate directory.
 
 ## External List
 
