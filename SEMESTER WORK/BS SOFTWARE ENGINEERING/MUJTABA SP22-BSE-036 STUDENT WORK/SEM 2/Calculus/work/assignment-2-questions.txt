@@ -1,0 +1,7 @@
+ASSIGNEMNT 1:
+
+a) 1 degree = 1?
+b) is circle 360 degrees? why no more no less?
+c) find domain/range of 6 trignometric funcs (sin, cos, tan, ...)
+and graphs of them AND apply theory if they are onto, one-one not onto
+and apply tests that if they are one-one or not than why?
