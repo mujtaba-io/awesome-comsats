@@ -11,7 +11,7 @@ Welcome to the **Awesome COMSATS** repository! This repository aims to collect a
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
-- [List](#list)
+- [External List](#external-list)
 
 ## Introduction
 
@@ -65,17 +65,15 @@ We expect all contributors to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md
 
 The **Awesome COMSATS** repository is licensed under the [CC0 (Public Domain)](LICENSE). By contributing to this repository, you agree to make your work available under this license, allowing others to use, distribute, and modify your contributions.
 
+### Semester Work
+- You can browse directories and get all relevant semester data/work that we uploded for every semester of every deparrtment possible, each student's work is uploaded under separate directory.
 
-## List
+## External List
 
 ### Solved Labs
 - [Object Oriented Programming Solved Lab Manual Solution](https://github.com/HasaanAhmad/Object-Oriented-Programming-Lab-Manual-Comsats-University-Islamabad): Object Oriented Programming 3rd Semester Course Lab
 - [Data Structures and Algorithms](https://github.com/HasaanAhmad/Data-Structures-And-Algorithms-COMSATS-Solved-Lab-Manual): 3rd Semester Data Structures and Algorithms Lab Manual
 - [Programming Fundamentals](https://github.com/HasaanAhmad/Programming-Fundamental-CSC103-Lab-Solution): 2nd Semester Programming Fundamentals Lab Manual (Sir Rizwan Certified :) )
-
-
-### Semester Work
-- You can browse directories and get all relevant semester data/work that we uploded for every semester of every deparrtment possible, each student's work is uploaded under separate directory.
 
 ### Semester Projects
 
