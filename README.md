@@ -111,8 +111,10 @@ You can browse directories and get all relevant semester data/work that we uplod
 #### Calculus
 
 ### Research Papers
+- [EE Department Research Publications](http://ww2.comsats.edu.pk/ee/ResearchPublications.aspx)
 
 ### Thesis
+- [CUI Theses Repository](http://ww2.comsats.edu.pk/thesis/)
 
 ### Notes
 
