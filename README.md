@@ -90,36 +90,12 @@ You can browse directories and get all relevant semester data/work that we uplod
 ##### C++
 - [Algorithms Applied on Countries Dataset](https://github.com/HasaanAhmad/Countries-Dataset-Structures-and-Algorithms-C-): 3rd semester DSA course project.
 
-### Assignments
-
-#### ICT
-
-#### PF
-
-#### OOP
-
-#### DSA
-
-#### Discrete Structures
-
-#### Linear Algebra
-
-#### Software Engineering Concepts (SEC)
-
-#### Software Requirements Engineering (SRE)
-
-#### Calculus
-
 ### Research Papers
 - [EE Department Research Publications](http://ww2.comsats.edu.pk/ee/ResearchPublications.aspx)
 
 ### Thesis
 - [CUI Theses Repository](http://ww2.comsats.edu.pk/thesis/)
 
-### Notes
-
 ### Final Year Projects
 
-### Software
-
-### Art
+### Artwork
