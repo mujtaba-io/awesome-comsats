@@ -1,4 +1,4 @@
-# Awesome COMSATS
+# Awesome COMSATS ![Awesome](https://awesome.re/badge-flat2.svg)
 
 Welcome to the **Awesome COMSATS** repository! This repository aims to collect and showcase various student projects, works, , research papers, writings, and programs from COMSATS University. Whether you're a student, faculty member, or enthusiast, this repository serves as a valuable resource to explore the diverse talents and accomplishments within the COMSATS community.
 
