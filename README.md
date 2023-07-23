@@ -72,6 +72,7 @@ You can browse directories and get all relevant semester data/work that we uplod
 
 ### Featured
 - [Abstract Systems - A service-based company initiative by COMSATS students](https://github.com/Abstract-Systems/AbstractSystems) - landing website. This website showcases some of the work of those students. Though not related to academics, it is a valuable piece of work.
+- [Words Dataset: All Words of All Languages](https://github.com/mujtaba-io/words-dataset) - attempt by me, but not related to any of my course.
 
 ### Solved Labs
 - [Object Oriented Programming Solved Lab Manual Solution](https://github.com/HasaanAhmad/Object-Oriented-Programming-Lab-Manual-Comsats-University-Islamabad): Object Oriented Programming 3rd Semester Course Lab
