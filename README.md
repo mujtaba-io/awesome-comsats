@@ -71,6 +71,7 @@ You can browse directories and get all relevant semester data/work that we uplod
 ## External List
 
 ### Featured
+- [gamedev tutorials](https://gameidea.org) can be found here that i created. it is for shaders, ai algorithms, logic & game physics. this originally started as a part of digital marketing project at my 4th semester at comsats.
 - [Abstract Systems - A service-based company initiative by COMSATS students](https://github.com/Abstract-Systems/AbstractSystems) - landing website. This website showcases some of the work of those students. Though not related to academics, it is a valuable piece of work.
 - [Words Dataset: All Words of All Languages](https://github.com/mujtaba-io/words-dataset) - attempt by me, but not related to any of my course.
 
